@@ -14,4 +14,4 @@ defineTest(hasLupdate) {
     return(false)
 }
 
-hasLupdate(): SUBDIRS += QRadiant/translations
+#hasLupdate(): SUBDIRS += QRadiant/translations
